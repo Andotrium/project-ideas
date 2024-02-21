@@ -41,6 +41,8 @@
 | 02 | Use their APIs on the backend, relay the information to your frontend |
 | 03 | Make sure your frontend experience is 10x better than the native chat GPT experience. |
 | 04 | Allow users to put in their own Chat GPT API keys and use GPT 4. |
+| 05 | Make the ontop app in such a way that, if you upload a pdf onto it, it will give back relevant questions from the text
+just like an exam question setter.
 
 <br><br>
 
